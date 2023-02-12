@@ -4,5 +4,5 @@ Created with CodeSandbox
 
 ### Screenshot
 
-![](./![2023-02-12 (3)](https://user-images.githubusercontent.com/114775257/218322559-e5898381-ea85-491d-9e56-d67f8e6fb34c.png)
+(./![2023-02-12 (3)](https://user-images.githubusercontent.com/114775257/218322559-e5898381-ea85-491d-9e56-d67f8e6fb34c.png)
 
