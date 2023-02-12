@@ -13,5 +13,5 @@ Created with CodeSandbox
 - CSS custom properties
 - Flexbox
 
-This is my first project and experience with HTML and CSS.
+This is my first ever project and experience with HTML and CSS.
 
